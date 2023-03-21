@@ -1,0 +1,77 @@
+.viewChat {
+    margin-top: 80px;
+    width: 1151px;
+    height: 650px;
+}
+
+.listChat {
+    float: left;
+    width: 400px;
+    height: 650px;
+    border-left: 2px groove;
+    border-right: 2px groove;
+    border-top: 2px groove;
+    border-bottom: 2px groove;
+}
+
+.listChat-header {
+    float: top;
+    width: 400px;
+    height: 60px;
+    border-bottom: 2px groove;
+}
+
+.chat {
+    float: right;
+    width: 750px;
+    height: 650px;
+    border-right: 2px groove;
+    border-top: 2px groove;
+    border-bottom: 2px groove;
+}
+
+.chat-header {
+    width: 750px;
+    height: 60px;
+    border-bottom: 2px groove;
+}
+
+.chat-title {
+    float: left;
+    text-align: right;
+    width: 250px;
+    height: 60px;
+}
+
+.add-chat {
+    float: right;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+}
+
+.add-chat-x {
+    float: left;
+    width: 50px;
+}
+
+.add-chat-title {
+    float: left;
+    width: 300px;
+    text-align: center;
+}
+
+.add-chat-next {
+    float: right;
+    width: 50px;
+}
+
+
+.view-message {
+    width: 750px;
+    height: 550px;
+}
+
+.show-message {
+    height: 520px;
+}
